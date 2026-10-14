@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: DEValueTooltip
+## Notes: Shows disenchant materials and Auctionator AH prices in item tooltips
+## Author: Claude
+## Version: 1.1.0
+## OptionalDeps: Auctionator
+
+DEValueTooltip.lua
