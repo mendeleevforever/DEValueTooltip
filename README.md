@@ -69,6 +69,7 @@ Greater Mystic Essence x1-2 (20%)
 Large Glowing Shard (4%)
     AH: 2g 10s ea
 ```
+<img width="770" height="370" alt="DEValueTooltip screenshot" src="https://github.com/user-attachments/assets/e5a6f514-b380-4dc2-8709-3f64440a68c7" />
 
 ## Notes
 
